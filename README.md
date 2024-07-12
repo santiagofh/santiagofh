@@ -1,13 +1,14 @@
 
-# Santiago Andres Farías Hurtado
+# Santiago Andrés Farías Hurtado
+
 ---
 
-- 👋 Hi, I’m @santiagofh Industrial civil engineer and Master in public policy (MPP)
-- 👀 I’m interested in code and yoga 🕉🧑🏾‍💻
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on projects of DS and ML
-- 📫 How to reach me in santiagofariash@gmail.com 
----
+- 👋 Hi, I’m @santiagofh, an Industrial Civil Engineer with a Master's degree in Public Policy (MPP).
+- 👀 I have a strong interest in coding and epidemiology.
+- 🌱 I’m currently working in public health, focusing on statistical analysis.
+- 💞️ I’m looking to collaborate on projects related to Data Science (DS) and Machine Learning (ML).
+- 📫 You can reach me at santiagofariash@gmail.com.
+
 
 <!---
 santiagofh/santiagofh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
